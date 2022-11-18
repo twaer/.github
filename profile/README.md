@@ -1,1 +1,1 @@
-![This is an image](/img.png)
+![This is an image](/profile/img.png)
